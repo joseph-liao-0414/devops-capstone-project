@@ -1,6 +1,6 @@
 ---
-name: davops capstone user story template
-about: devops capstone issue template
+name: user-story
+about: devops capstone user story template
 title: ''
 labels: ''
 assignees: ''
